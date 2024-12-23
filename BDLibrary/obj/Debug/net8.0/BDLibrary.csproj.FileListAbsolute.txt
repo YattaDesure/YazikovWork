@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\bin\Debug\net8.0\BDLibrary.deps.json
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\bin\Debug\net8.0\BDLibrary.runtimeconfig.json
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\bin\Debug\net8.0\BDLibrary.dll
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\bin\Debug\net8.0\BDLibrary.pdb
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\obj\Debug\net8.0\BDLibrary.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\obj\Debug\net8.0\BDLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\obj\Debug\net8.0\BDLibrary.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\obj\Debug\net8.0\BDLibrary.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\obj\Debug\net8.0\BDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\obj\Debug\net8.0\BDLibrary.dll
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\obj\Debug\net8.0\refint\BDLibrary.dll
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\obj\Debug\net8.0\BDLibrary.pdb
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\obj\Debug\net8.0\BDLibrary.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\для учебы\MDK11_01\BDLibrary\BDLibrary\obj\Debug\net8.0\ref\BDLibrary.dll
